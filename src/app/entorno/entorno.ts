@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
   templateUrl: './entorno.html',
 })
 export class Entorno {
-  nombreEntorno = 'PROD';
-  mensaje = 'Entorno de producción';
+  nombreEntorno = 'QA';
+  mensaje = 'Entorno de pruebas QA';
 }
